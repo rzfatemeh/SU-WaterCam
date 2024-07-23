@@ -5,7 +5,7 @@ import SimpleITK as sitk
 import matplotlib.pyplot as plt
 from cv2 import dnn_superres
 
-
+#this is a test
 
 
 def mutual_information_registration(fixed_image_path, moving_image_path):
